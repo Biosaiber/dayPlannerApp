@@ -2,6 +2,15 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
 
+Project of data binding, directives, and pipes in Angular. A Day Planner application which will be used by users to track tasks to complete.
+
+<day-planner> component
+<app-task> component
+<app-add-task> component
+timeLeft pipe
+appHighlight directive
+
+
 ## Development server
 
 To start a local development server, run:
